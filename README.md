@@ -85,7 +85,7 @@
 
 ### **구현 기능**
 
-📌[API 명세서 ](https://documenter.getpostman.com/view/22723177/VUxNR7mw#dd4ed3cb-7fdc-4575-8732-19c22d916e9b)
+📌[API 명세서 ](https://documenter.getpostman.com/view/22723177/2s847Ftsdk)
 
 **회원가입**
 
